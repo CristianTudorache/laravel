@@ -1,7 +1,5 @@
 - name: Codecov
-  # You may pin to the exact commit or the version.
-  # uses: codecov/codecov-action@7d5dfa54903bd909319c580a00535b483d1efcf3
-  uses: codecov/codecov-action@v1.0.14
+  uses: codecov/codecov-action@v1.0.14@afd21fe0-fdc8-493b-9b06-8f4559f1d093
   with:
     # User defined upload name. Visible in Codecov UI
     name: # optional
